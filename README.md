@@ -1,3 +1,4 @@
+
 <a name="readme-top"></a>
 
 <!--
@@ -22,6 +23,15 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
+<div align="center">
+
+  <img src="https://user-images.githubusercontent.com/74345713/208942551-07d6427b-ff1a-4d6e-8f14-21c206cbe1db.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>README</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -33,41 +43,28 @@ After you're finished please remove all the comments and instructions!
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
-## Math Magicians<a name="about-project"></a>
+# 📖 Math Magicians <a name="about-project"></a>
 
-**Math Magicians** is web application based on React. The website is a Basic Calculator web application . made for learning react from Microverse .
+**Math Magicians** is a tool that helps to Calculate. It's build using React.
 
 ## 🛠 Built With <a name="built-with"></a>
-
-- Html
-- Css
-- JavaScript
-- React
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML</a></li>
-    <li><a href="#">CSS</a></li>
-    <li><a href="#">JavaScripts</a></li>
-    <li><a href="#">Webpack</a></li>
-    <li><a href="#">Jest</a></li>
+    <li><a href="">HTML</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">JavaScript</a></li>
+    <li><a href="">React</a></li>
   </ul>
 </details>
 
@@ -75,9 +72,8 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- **[Project 1: The Home Page.]**
-- **[Project 2: The Comments Popup]**
-- **[Project 3: send and receive data from API.]**
+- **Uses React**
+- **Based on latest ES6 syntax**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +81,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yash244466666.github.io/math-magicians/build)
+- [Live Demo Link](https://yash244466666.github.io/math-magicians/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,22 +91,9 @@ After you're finished please remove all the comments and instructions!
 
 To get a local copy up and running, follow these steps.
 
-### Prerequisites
-
-- Please install git in your computer.
-- Also install a code editor.
-- A web browser to view the output.
-
 ### Setup
 
-- To clone my repository 
-- Run npm install to install the dependencies.
-- Open the build/index.html file with a browser.
-
-### Tests
-
-- Please install Jest to your local environment.
-- Run tests using `npm run test` command on your terminal.
+Clone this repository to your desired folder:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,15 +107,6 @@ To get a local copy up and running, follow these steps.
 - LinkedIn: [Yash Solo](https://www.linkedin.com/in/yash-solo)
 - Twitter: [Yash Solo](https://twitter.com/yash_solo000)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Reservation Popup**
-- [ ] **send and receive data from API.**
-- [ ] **final touches.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,17 +124,28 @@ Feel free to check the [issues page](https://github.com/yash244466666/math-magic
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it an star. Thank you!
+Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
+
+<!-- FUTURE FEATURES -->
+## 🔭 Future Features <a name="future-features"></a>
+
+<!-- > Describe 1 - 3 features you will add to the project.
+
+- **Use callbacks and promises**
+- **Use ES6 modules to write modular JavaScript**
+- **Send and receive data from an API**  -->
+
+<!-- FUTURE FEATURES -->
+
+
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse for giving us this project to improve our skills.
-
-<!-- - [TvMaze API](https://www.tvmaze.com/api). -->
+I would like to thank Microverse and all my colleagues who have helped me making this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,8 +153,6 @@ We would like to thank Microverse for giving us this project to improve our skil
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](MIT.md) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](https://github.com/Wahaj-Ali/To-do-list/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
