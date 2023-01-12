@@ -30,6 +30,11 @@ body {
   font-size: 1rem;
 }
 
+.calculator__keypad__button:hover {
+  background-color: #706d6d;
+  color: #fff;
+}
+
 .sym {
   background-color: #d46326;
 }
