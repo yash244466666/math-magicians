@@ -112,7 +112,7 @@ Install this project with:
 To start the application, run the following command
 
 ```sh
-  npm test
+  npm start
 ```
 
 ### Run tests
