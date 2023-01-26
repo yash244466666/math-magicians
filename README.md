@@ -87,7 +87,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started with Create React App <a name="getting-started"></a>
+## 💻 Getting Started with Math Magicians <a name="getting-started"></a>
 
 ### Setup
 
