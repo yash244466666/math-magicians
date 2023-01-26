@@ -28,7 +28,7 @@ After you're finished please remove all the comments and instructions!
   <img src="https://user-images.githubusercontent.com/74345713/208942551-07d6427b-ff1a-4d6e-8f14-21c206cbe1db.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>README</b></h3>
+  <h3><b>Math Magician</b></h3>
 
 </div>
 
@@ -81,19 +81,47 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://yash244466666.github.io/math-magicians/)
+- [Live Demo Link](https://lucent-profiterole-373d75.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
+## 💻 Getting Started with Math Magicians <a name="getting-started"></a>
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this [repository](https://github.com/yash244466666/math-magicians) to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:yash244466666/math-magicians.git 
+  cd math-magicians
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  npm install
+```
+
+### Start
+
+To start the application, run the following command
+
+```sh
+  npm start
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm test
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,6 +161,10 @@ Give a ⭐️ if you like this project!
 
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Will-have-a-better-style]**
+- [ ] **[Will-have-a-domain-name]**
+- [ ] **[Will-have-a-dedicatd-server]**
 
 <!-- > Describe 1 - 3 features you will add to the project.
 
