@@ -89,7 +89,40 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started with Create React App <a name="getting-started"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Setup
+
+Clone this [repository](https://github.com/yash244466666/math-magicians) to your desired folder:
+
+```sh
+  cd my-folder
+  git clone git@github.com:yash244466666/math-magicians.git  cd blog_app
+```
+
+### Install
+
+Install this project with:
+
+```sh
+  bundle install
+  rails db:create
+  rails db:migrate
+```
+
+### Start
+
+To start the application, run the following command
+
+```sh
+  rails server
+```
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  rspec
+```
 
 ## Available Scripts
 
@@ -207,9 +240,9 @@ Give a ⭐️ if you like this project!
 <!-- FUTURE FEATURES -->
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Can_multiply]**
+- [ ] **[Can_division]**
+- [ ] **[Can_subtarct]**
 
 <!-- > Describe 1 - 3 features you will add to the project.
 
